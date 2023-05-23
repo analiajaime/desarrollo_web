@@ -1,6 +1,10 @@
 body {
 
-   background: rgb(191, 190, 190)
+    background: rgb(199,199,200);
+    background: -moz-linear-gradient(90deg, rgba(199,199,200,1) 0%, rgba(252,252,255,1) 48%, rgba(164,232,246,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(199,199,200,1) 0%, rgba(252,252,255,1) 48%, rgba(164,232,246,1) 100%);
+    background: linear-gradient(90deg, rgba(199,199,200,1) 0%, rgba(252,252,255,1) 48%, rgba(164,232,246,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#c7c7c8",endColorstr="#a4e8f6",GradientType=1);
 }
 
 #barranavegacion {
@@ -9,24 +13,28 @@ body {
 
 .contenedor_formulario {
     display: flex;
-    justify-content: center;}
+    justify-content: center;
+    margin: 3rem;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+    border-radius: 38px;
+background: #e0e0e0;
+box-shadow:  11px 11px 10px #a6a6a6,
+             -11px -11px 10px #ffffff;
+}
 
 .galeriadehamburguesas {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     align-items: baseline;
-    justify-content: space-around;
+    justify-content: space-evenly;
     gap: 5px;
 }
 
 .galeriadehamburguesas img {
     height: 250px;
     width: unset;
-}
-
-.edicionespecial {
-    align-items: center;
 }
 
 #link_redes {
@@ -36,30 +44,53 @@ body {
     
 }
 
-#carouselExample img{
-    height: 80vh;
-    object-fit: cover;
-    filter: grayscale(70%);
-}
 
 footer{
     height: 15vh;
     margin-bottom: 0%;
-    padding-top: 0px
+    margin-top: 5vh;
+    padding-top: 0px;
+    border-top: solid black;
 }
 
-#carouselExample {
-    position: relative
+
+.edicionespecial {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    gap:3rem;
+    justify-content: center;
+    border: 3px solid black;
+    padding: 3px;
+    text-align: justify;
 }
 
+button {
+        font-size: 16px;
+        margin-left: 16px;
+        padding: 1em 3.3em;
+        transform: perspective(200px) rotateX(15deg);
+        color: white;
+        font-weight: 900;
+        border: none;
+        border-radius: 5px;
+        background: linear-gradient(0deg, rgba(63,94,251,1) 0%, rgba(70,135,252,1) 100%);
+        box-shadow: rgba(63,94,251,0.2) 0px 40px 29px 0px;
+        will-change: transform;
+        transition: all 0.3s;
+        border-bottom: 2px solid rgba(70,135,252,1);
+      }
+      
+      button:hover {
+        transform: perspective(180px) rotateX(30deg) translateY(2px);
+      }
+      
+      button:active {
+        transform: perspective(170px) rotateX(36deg) translateY(5px);
+      }
 
-#carouselExample .overlaid {
-    z-index: 1;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background-color: rgba(0, 0, 0, 0.5);
-    color: white;
+.card {
+    text-align: justify;
+    margin-top: 3vh;
+
 }
