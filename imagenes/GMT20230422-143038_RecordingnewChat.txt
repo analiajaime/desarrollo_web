@@ -1,0 +1,826 @@
+01:01:02	Rocio Suarez:	Buenass
+01:01:14	[Tutor] Jose Alvarez:	Se ve joya
+01:01:16	Facundo Ramirez:	Buenas Profe!
+01:01:21	10391 Analia Jaime:	si
+01:01:21	Juan Canepa:	sisi
+01:01:21	[TUTOR] Franco Settembrini:	si
+01:01:21	Cristian Márquez:	Sep
+01:01:21	[Tutor] Jose Alvarez:	Sisi
+01:01:23	Mariano Chouhy:	Perfecto
+01:01:26	Exequiel Ramirez:	quede re solo saludando jajajaja
+01:09:20	[Tutor] Jose Alvarez:	Paginas Absolutas: Paginas externas a nuestro proyecto.Paginas Relativas: Nuestros propios archivos .html
+01:09:47	Cristian Márquez:	Reacted to "Paginas Absolutas: P..." with 👏
+01:09:59	[TUTOR] Franco Settembrini:	Reacted to "Paginas Absolutas: P..." with ☝️
+01:10:03	Analia Jaime:	Reacted to "Paginas Absolutas: P..." with 👍🏻
+01:11:46	Cristian Márquez:	Suip
+01:11:50	Eugenio Gonzales Parraga:	si
+01:11:51	Tammy Pardo:	si
+01:11:54	Lucas Labruna:	todo perfecto
+01:11:58	Pablo Di Monte:	perfecto
+01:12:09	Mariana Di Palma:	porque se pone a en vez de p?
+01:12:10	Gabriel Narvaez:	Reacted to "perfecto" with 👍
+01:12:27	Luciana Melody Cielo Ortega:	si esta dentro de otra carpeta como pages entonces es ..?
+01:12:35	[Tutor] Jose Alvarez:	Replying to "porque se pone a en ..."
+
+porque es la etiqueta de enlace
+01:12:49	[Tutor] Jose Alvarez:	Replying to "si esta dentro de ot..."
+
+Tienen que navegar entre carpetas
+01:12:54	Mauro Tondato:	Reacted to "Paginas Absolutas: P..." with 👍🏻
+01:13:10	[Tutor] Jose Alvarez:	Replying to "si esta dentro de ot..."
+
+por ejemplo pages/archivo.html
+01:13:16	Mariana Di Palma:	Reacted to "porque es la etiquet..." with 👌🏾
+01:13:38	[TUTOR] Franco Settembrini:	Lu ../ es para volver un nivel atras
+01:13:48	Luciana Melody Cielo Ortega:	Replying to "si esta dentro de ot..." 
+
+ osea "../pages/inicio.html"?
+01:13:48	[TUTOR] Franco Settembrini:	es decir volver de pages para el root y encontrar el archivo correspondiente
+01:13:48	Cristian Márquez:	Reacted to "Lu ../ es para volve..." with 👍
+01:14:08	Ángela Ramírez:	Descuentos
+01:14:12	Luciana Melody Cielo Ortega:	Replying to "es decir volver de p..." 
+
+ okkk
+01:15:50	Juanito Bernígola:	el section id donde se pone ?
+01:16:08	[Tutor] Jose Alvarez:	El id se pone depende la etiqueta que quieras identificar
+01:16:50	Mariana Di Palma:	un lorem?
+01:17:02	[TUTOR] Franco Settembrini:	Chicos como consejo no traten de seguir al profe a la par, vayan entendiendo los conceptos que vamos viendo
+01:17:08	[TUTOR] Franco Settembrini:	me refiero a nivel codigo
+01:17:13	Cristian Márquez:	Reacted to "me refiero a nivel c..." with 👍
+01:17:17	[Tutor] Jose Alvarez:	Reacted to "Chicos como consejo ..." with ☝️
+01:17:54	Mateo Jimenez:	Que diferencia hay entre usar por ejemplo <div class="main"></div> o una etiqueta <main></main> para dividir el documento en secciones?
+01:18:12	Mateo Jimenez:	Hay uno mas optimo que otro o es indiferente?
+01:18:12	[Tutor] Jose Alvarez:	Son etiquetas semanticas, en tu main tenes que tener tu contenido principal Mateo
+01:18:23	[Tutor] Jose Alvarez:	Y podes tener un solo main por pagina
+01:18:33	[TUTOR] Franco Settembrini:	Mateo a nivel funcionalidad ninguno practicamente, a nivel semántico y luego para llamarlo mediante css si hay diferencias
+01:18:47	[TUTOR] Franco Settembrini:	Reacted to "Son etiquetas semant..." with ☝️
+01:19:20	Mateo Jimenez:	Seria mejor practica usar esas etiquetas en lugar de divs?
+01:19:23	Mateo Jimenez:	Gracias!
+01:19:32	[Tutor] Jose Alvarez:	No siempre, depende de tu estructura
+01:20:00	[TUTOR] Franco Settembrini:	La semántica siempre es una buena practica, pero no siempre se pueden usar puramente etiquetas semánticas, vas a tener que usar divs también seguro
+01:20:21	Mateo Jimenez:	Claro, buenisimo
+01:20:29	Mateo Jimenez:	voy a seguir investigando sobre eso
+01:20:32	Sebastian Cirillano:	la etiqueta seccion se puede hacer para una seccion en la misma pagina que la referencia no?
+01:20:58	[Tutor] Jose Alvarez:	Las etiquetas semanticas depende mucho su uso, no hay una estructura en concreta
+01:21:12	[Tutor] Jose Alvarez:	Es según el contenido que tengan
+01:21:21	[Tutor] Jose Alvarez:	Y que funcionalidad le quieran dara
+01:21:23	[Tutor] Jose Alvarez:	dar*
+01:23:30	Patrick González:	Si
+01:23:41	[TUTOR] Franco Settembrini:	Recuerden, tenemos enlaces absolutos, relativos e internos
+01:23:42	Exequiel Ramirez:	va quedando claro
+01:23:44	Pablo Di Monte:	👍🏻
+01:23:54	Patrick González:	Si, para hacer lo mismo que una etiqueta a en un button como le hago?
+01:24:04	[TUTOR] Franco Settembrini:	Lo envolves en <a>
+01:24:18	Patrick González:	<button id="home"> <a href="index.html">HOME</a></button>
+01:24:29	Patrick González:	Lo intente así pero no se si sea buena practica
+01:24:43	[TUTOR] Franco Settembrini:	Hay distintas maneras
+01:24:47	[TUTOR] Franco Settembrini:	Ya lo vamos a ir viendo
+01:24:54	Cristian Márquez:	Siga profe
+01:24:54	Mateo Jimenez:	Todo claro
+01:26:15	[TUTOR] Franco Settembrini:	Es fundamental tener imágenes en su proyecto, hoy en día cualquier página web que visiten tiene varias
+01:26:31	Cristian Márquez:	Reacted to "Es fundamental tener..." with 👍
+01:29:04	Nahuel Martin Gomez:	ese icon y el tituo siempre en el head?
+01:29:10	Nahuel Martin Gomez:	titulo?
+01:29:17	[TUTOR] Franco Settembrini:	Si Nahue
+01:29:23	Maria Soria:	Reacted to "Es fundamental tener..." with 👍
+01:29:57	Nahuel Martin Gomez:	Replying to "Si Nahue"
+
+bien..
+01:30:47	Ignacio Borsani:	podemos ver el ejemplo de Google maps?
+01:30:53	Cristian Márquez:	En Google como se haría?
+01:31:15	Sebastian Cirillano:	como seria con google map?
+01:31:17	[Tutor] Jose Alvarez:	Tienen que darle a compartir en Google y seria lo mismo
+01:31:21	[Tutor] Jose Alvarez:	Copian el iframe
+01:31:24	[TUTOR] Franco Settembrini:	Ponen la ubicación > compartir > insertar un mapa
+01:31:29	Sebastian Cirillano:	de una!
+01:31:33	Cristian Márquez:	Thanks
+01:31:36	Mariana Di Palma:	lo de favicon? donde va?
+01:31:41	[Tutor] Jose Alvarez:	En el head
+01:31:46	Mariana Di Palma:	okay!
+01:31:51	Mariana Di Palma:	Reacted to "En el head" with 👍🏾
+01:31:52	[TUTOR] Franco Settembrini:	ahí lo vemos
+01:33:31	Juan Medina:	Hay una paginapara convertir PNG o JPG a SVG
+01:34:03	[TUTOR] Franco Settembrini:	Un monton Juan
+01:34:09	[TUTOR] Franco Settembrini:	Basta con googlear
+01:34:19	Juan Medina:	sisi era una afirmación jeje
+01:34:28	[TUTOR] Franco Settembrini:	Reacted to "sisi era una afirmac..." with 🤟
+01:40:50	Mariana Di Palma:	la misma
+01:44:33	Mariana Di Palma:	en el alt de las imágenes entonces describimos las imágenes?
+01:44:39	Mariana Di Palma:	imágenes perdón
+01:44:42	Mariana Di Palma:	hay
+01:44:42	Mariana Di Palma:	jaja
+01:44:47	Cristian Márquez:	Sip
+01:44:51	[TUTOR] Franco Settembrini:	Si Mariana, también sirve en caso de que no cargue la imagen para el usuario
+01:44:59	Mariana Di Palma:	okay gracias!
+01:45:17	Federico Romero:	Hay diferencia entre copiar la dirección de la imagen y ponerla en una carpeta de imágenes?
+01:45:30	[TUTOR] Franco Settembrini:	Si Fede, que uno es un enlace absoluto y el otro relativo
+01:45:43	[TUTOR] Franco Settembrini:	Por otro lado si pones un link externo, si la imagen se cae también se cae en tu pagina
+01:46:02	[Tutor] Jose Alvarez:	Como dice Franco, ese es el problema
+01:46:07	Lucas Martínez Revelli:	En el navbar, se pueden usar las listas para hacer el menú?
+01:46:10	[Tutor] Jose Alvarez:	La web va a pesar menos pero se corre el riesgo de que se caiga
+01:46:18	[Tutor] Jose Alvarez:	Si Lucas
+01:46:19	[TUTOR] Franco Settembrini:	Si Lucas, ahí lo vemos
+01:46:34	Lucas Martínez Revelli:	Gracias!
+01:51:01	Cristian Márquez:	jasjasd
+01:51:08	[TUTOR] Franco Settembrini:	ryzen 4
+01:51:09	[Tutor] Jose Alvarez:	Jajaja
+01:51:09	[TUTOR] Franco Settembrini:	jajaja
+01:54:14	[TUTOR] Franco Settembrini:	ul = unordered listli = list item
+01:55:08	[Tutor] Jose Alvarez:	Por cada elemento de la lista tienen que usar un nuevo li, recuerden eos
+01:55:09	[Tutor] Jose Alvarez:	eso*
+01:56:03	Juan Canepa:	verdadero
+01:56:04	Jorge Cutruzzola:	verdaero
+01:56:05	Exequiel Ramirez:	vberdadero
+01:56:05	Mateo Jimenez:	Verdadero
+01:56:06	Cristian Márquez:	Verdadero
+01:56:07	Facundo Ramirez:	verdadero
+01:56:07	Juan Medina:	verdad
+01:56:08	Mariana Di Palma:	se podría hacer asi? listas ordenadas dentro de NO ordenadasa?
+01:56:08	Patrick González:	true
+01:56:08	Eugenio Gonzales Parraga:	f
+01:56:08	Lucas Martínez Revelli:	verdad
+01:56:09	Leonardo Martin Patrono:	verdadero
+01:56:09	Maria Laura Boria:	verdadero
+01:56:09	Maria Soria:	verdadero
+01:56:12	Eugenio Gonzales Parraga:	falso
+01:56:13	Brunna Da Silva Carvalho:	verdadero
+01:56:13	Luciana Melody Cielo Ortega:	verdadero
+01:56:13	Pablo Di Monte:	verdadero
+01:56:14	Ángela Ramírez:	falso
+01:56:15	Baruch Mendivil Laurrabaquio:	Solo es un lenguaje
+01:56:19	Mateo Jimenez:	No es un lenguaje de programacion
+01:56:20	Analia Jaime:	NO
+01:56:20	Mariana Di Palma:	no es lenguaje de programación es lenguaje de etiquetas
+01:56:20	[Tutor] Jose Alvarez:	Reacted to "Solo es un lenguaje" with 👏
+01:56:24	Patrick González:	lenguaje de etiquetas
+01:56:24	Kori Ditmeyer:	falso
+01:56:39	Eugenio Gonzales Parraga:	HTML y css no es un lenguaje de programacion
+01:56:50	Mariana Di Palma:	genial
+01:57:15	[TUTOR] Franco Settembrini:	Si
+01:57:36	[Tutor] Jose Alvarez:	Volvemos 12:38
+01:57:39	Profesor Coderhouse:	volvemos 12:38
+01:57:40	Eugenio Gonzales Parraga:	Nice
+01:57:46	Pablo Di Monte:	como haces para modificar las dos etiquetas al mismo tiempo
+01:58:14	Cristian Márquez:	Replying to "como haces para modi..."
+
+Justo eso quería preguntar
+01:58:22	[TUTOR] Franco Settembrini:	alt + click
+01:58:30	Lucas Labruna:	Replying to "como haces para modi..."
+
+x3
+01:58:39	Lucas Labruna:	Reacted to "alt + click" with 👍
+01:58:47	Brunna Da Silva Carvalho:	Respondiendo a "como haces para mo..."
+
+yo igual queria saber
+01:59:02	[TUTOR] Franco Settembrini:	Replying to "como haces para modi..."
+
+alt + click
+01:59:51	Cristian Márquez:	Reacted to "alt + click" with 👍
+02:08:48	[Tutor] Jose Alvarez:	Auto rename tag
+02:08:59	Profesor Coderhouse:	Auto Rename Tag
+02:15:34	Profesor Coderhouse:	https://drive.google.com/file/d/1vO8TrJCK9NCYc2plsuUIkM3Ke7859t2G/view
+02:15:59	Mariana Di Palma:	input es lo mismo que button?
+02:15:59	[TUTOR] Franco Settembrini:	Importante siempre revisar el material de las clases que vamos viendo en la carpeta compartida
+02:16:03	[TUTOR] Franco Settembrini:	te pasan todo tipo de links utiles
+02:16:04	Mateo Jimenez:	Buenisimo!
+02:16:23	[TUTOR] Franco Settembrini:	No Mariana, son dos cosas distitnas, pero se puede hacer un input type button
+02:17:02	Mariana Di Palma:	genial gracias!!
+02:17:15	Mariana Di Palma:	Reacted to "No Mariana, son dos ..." with 🙌🏾
+02:17:56	Eugenio Gonzales Parraga:	si
+02:18:01	Mariana Di Palma:	sii diurno de dia
+02:18:04	Maria Laura Boria:	es correcta
+02:18:04	Mateo Ibañez:	si
+02:18:05	Mariana Di Palma:	nocturno noche
+02:19:42	Lucas Labruna:	se puede usar un label para un type radio?
+02:19:51	[Tutor] Jose Alvarez:	Si Lucas
+02:20:05	Lucas Labruna:	Reacted to "Si Lucas" with 👍
+02:20:11	Lucas Labruna:	Replying to "Si Lucas"
+
+gracias
+02:22:16	Juan I. Bernígola:	perdón jajajaja
+02:24:44	Eugenio Gonzales Parraga:	eso no hace con js y py ? por las condiciones de if, else, y elsefi ?
+02:25:08	[Tutor] Jose Alvarez:	Podria ser por condicionales, claro
+02:25:30	Kori Ditmeyer:	for="sexo"
+02:27:27	Leonardo Martin Patrono:	el Id va si o si antes de la palabra o solo se puede poner " masculino"
+02:27:42	[TUTOR] Franco Settembrini:	se puede poner solo masculino Leo
+02:27:43	Leonardo Martin Patrono:	puedo poner masculino o femenino ?
+02:27:44	[Tutor] Jose Alvarez:	puede ir antes tambien
+02:27:44	[TUTOR] Franco Settembrini:	el id lo definen uds
+02:27:48	Leonardo Martin Patrono:	aah gracias!
+02:27:50	Kevin Grippo:	Usando el ID, el name puede quedar vacio?
+02:28:05	[TUTOR] Franco Settembrini:	no vas a poder seleccionar una sola de las opciones como mostro antes el profe Kevin
+02:28:26	Kevin Grippo:	gracias!
+02:28:34	Eugenio Gonzales Parraga:	podemos hacer referencia ? acortar
+02:29:05	[TUTOR] Franco Settembrini:	Euge el nombre del id puede ser el que vos quieras, eso lo definis vos
+02:29:15	Eugenio Gonzales Parraga:	nice
+02:29:24	Patrick González:	Y como hacer para desmarcar el button radio?
+02:29:30	[TUTOR] Franco Settembrini:	la idea obviamente es que sea descriptivo igual
+02:29:35	[Tutor] Jose Alvarez:	El radio por default no puede desmarcarse
+02:29:42	[Tutor] Jose Alvarez:	Hay que agregarle un poc de lógica de js
+02:29:51	Patrick González:	tendría que usar checkbox?
+02:29:52	[TUTOR] Franco Settembrini:	Tal vez con el input type reset?
+02:29:56	[TUTOR] Franco Settembrini:	que todavía n lo vimos
+02:29:59	[TUTOR] Franco Settembrini:	ahora en breve
+02:30:30	Leonardo Martin Patrono:	es posible cargar la misma pestaña cada vez q editemos el visual estudio? para evitar que las pestañas se abran cada vez q renovemos el código?
+02:30:42	Kori Ditmeyer:	si
+02:31:00	[Tutor] Jose Alvarez:	Deberia recargarse sola con el live server
+02:31:20	Lucas Labruna:	Replying to "es posible cargar la..."
+
+tenes que activar el autoguardado en visual
+02:31:39	Mateo Jimenez:	o sino ir guardando con ctrl+s
+02:31:52	Leonardo Martin Patrono:	tengo instalada esa extensión pero nada
+02:31:58	Leonardo Martin Patrono:	bueno voy a probar
+02:42:37	Federico Pallero:	El textarea?
+02:42:43	Federico Pallero:	No forma parte?
+02:42:47	Pablo Di Monte:	espacio donde deja la opinion
+02:42:48	Baruch Mendivil Laurrabaquio:	Una consulta, la etiqueta label para que nos funciona en el input
+02:42:59	[Tutor] Jose Alvarez:	Como para darle una relacion al input
+02:43:11	[Tutor] Jose Alvarez:	Un "titulo" digamosle
+02:43:38	Baruch Mendivil Laurrabaquio:	ok gracias
+02:43:41	Patrick González:	Hay alguna forma de incluir el titulo del input dentro del mismo input?
+02:43:48	[Tutor] Jose Alvarez:	El placeholder
+02:43:51	[Tutor] Jose Alvarez:	No se si el profe lo mostrara
+02:44:00	[TUTOR] Franco Settembrini:	Reacted to "El placeholder" with ☝️
+02:44:05	Maria Laura Boria:	textarea serviría para una respuesta abierta?
+02:44:06	Patrick González:	Que no sea fuera Nombre: input
+02:44:25	[Tutor] Jose Alvarez:	Si Maria
+02:44:28	Lucas Labruna:	se le puede poner un maximo de caracteres al textarea? como twitter digamos
+02:44:38	Patrick González:	Super, gracias.
+02:44:53	[Tutor] Jose Alvarez:	Si Lucas, con un maxlength
+02:45:03	[Tutor] Jose Alvarez:	minlength="4" maxlength="8"
+02:45:06	[Tutor] Jose Alvarez:	Seria minimo y maximo
+02:45:09	[TUTOR] Franco Settembrini:	Reacted to "minlength="4" maxlen..." with ☝️
+02:45:12	Jorge Fereira:	Como se limita el máximo de caracteres?
+Y validación de formato de correo?
+02:45:23	[TUTOR] Franco Settembrini:	Jorge una validación mas compleja del correo es con Js
+02:45:29	[Tutor] Jose Alvarez:	La validación de formulario se hace mas que nada con JavaScript que usan expresiones regulares
+02:45:43	Maria Laura Boria:	Reacted to "Si Maria" with 👍
+02:45:51	[Tutor] Jose Alvarez:	Les dejo un proyecto que hice yo, donde uso un formulario con lo que vimos, capaz les sirva como guia: https://kaleidoscopic-kashata-078ec7.netlify.app/
+02:45:59	Jorge Fereira:	Gracias!
+02:46:16	Cristian Márquez:	Replying to "Les dejo un proyecto..."
+
+esta re lindo
+02:46:22	Pablo Di Monte:	👍🏻
+02:46:31	[Tutor] Jose Alvarez:	Reacted to "esta re lindo" with ❤️
+02:46:34	[TUTOR] Franco Settembrini:	Reacted to "esta re lindo" with ❤️
+02:46:38	Mariana Di Palma:	por ejemplo para hacer Excel se usa tablas o listas?
+02:46:45	[Tutor] Jose Alvarez:	Claro Mariana
+02:46:52	Mariana Di Palma:	y para hacer una lista de tareas en forma de tablas se usa listas o tablasa?
+02:47:04	[Tutor] Jose Alvarez:	Una lista mas que nada
+02:47:19	Mariana Di Palma:	y la forma de una tabla se lo da en css?
+02:47:19	Cristian Márquez:	como se puede poner el input con la fecha?
+02:47:26	[TUTOR] Franco Settembrini:	Ahora lo vemos Mariana
+02:47:27	[Tutor] Jose Alvarez:	input type="date"
+02:47:43	Mariana Di Palma:	genial! gracias tutores
+02:47:47	[TUTOR] Franco Settembrini:	La lista es otra cosa, la tabla seria mas tirando para excel
+02:47:50	[Tutor] Jose Alvarez:	Reacted to "genial! gracias tuto..." with ❤️
+02:48:01	Mariana Di Palma:	Reacted to "genial! gracias tuto..." with 🙌🏾
+02:49:23	Mariana Di Palma:	en que caso es fundamental hacer tablas y no listas? o con listas puedo llegar a hacer todo?  por ejemplo en Hotmail que se usa? para realizar ese tipo de páginas como una casilla de correos?
+02:49:27	[Tutor] Jose Alvarez:	Yo de dos años como desarrollador, use una sola vez una tabla para un proyecto. Asi que imagínense el uso que se les da
+02:49:37	Mariana Di Palma:	Reacted to "Yo de dos años como ..." with 😅
+02:49:54	Mateo Jimenez:	Las tablas van a estar incluidas en el proyecto final?
+02:49:56	Mariana Di Palma:	en que caso es fundamental hacer tablas y no listas? o con listas puedo llegar a hacer todo?  por ejemplo en Hotmail que se usa? para realizar ese tipo de páginas como una casilla de correos?Gmail diría o outlook
+02:49:56	[Tutor] Jose Alvarez:	Replying to "en que caso es funda..."
+
+Las listas son para cosas que queres tener un orden, las tablas mas contenido estructurado
+02:50:15	[Tutor] Jose Alvarez:	Por ejemplo, para un to do list usan listas
+02:50:25	[Tutor] Jose Alvarez:	porque son cosas que quieren tener en orden
+02:50:53	Mariana Di Palma:	ahhhh genial eso
+02:51:08	[TUTOR] Franco Settembrini:	Las listas las van a usar para el menú de navegación
+02:51:14	[TUTOR] Franco Settembrini:	Las tablas, lo mas probable es que no las usen
+02:51:39	Mariana Di Palma:	por ejemplo en páginas como click up monday eso es todo listas?
+02:51:56	Mariana Di Palma:	claro como dijiste José un todolist
+02:52:04	Mariana Di Palma:	entiendo si genial
+02:52:23	[TUTOR] Franco Settembrini:	Los menus de la barra de navegación se hacen con listas, y la etiqueta <a>Luego se les da estilo y se los ordena con css
+02:52:55	Mariana Di Palma:	Reacted to "Los menus de la barr..." with 👍🏾
+02:53:08	[Tutor] Jose Alvarez:	Les dejo otro proyecto para que vean donde usar listas quizás jaja: https://velvety-scone-cf12fb.netlify.app/
+02:54:15	Mariana Di Palma:	que linda página esa
+02:54:17	Juan Medina:	Es horrible usar tablas jajaa
+02:54:25	Mariana Di Palma:	Reacted to "Es horrible usar tab..." with 😅
+02:54:34	Mariana Di Palma:	Reacted to "Les dejo otro proyec..." with 💟
+02:54:50	Cristian Márquez:	Reacted to "Les dejo otro proyec..." with ❤️
+02:55:12	[Tutor] Jose Alvarez:	Y si tienen que exportar la tabla, ahí mas las van a odiar
+02:55:24	Cristian Márquez:	Replying to "Les dejo otro proyec..."
+
+como hiciste para poner el tipo día y noche?
+02:55:38	[Tutor] Jose Alvarez:	Replying to "Les dejo otro proyec..."
+
+Con variables de estado en react
+02:55:48	Juan Medina:	Reacted to "Y si tienen que expo..." with 😜
+02:55:51	Cristian Márquez:	Replying to "Les dejo otro proyec..."
+
+me mataste, para q pregunte
+02:55:55	[Tutor] Jose Alvarez:	Replying to "Les dejo otro proyec..."
+
+Jajajjaja
+02:56:00	Cristian Márquez:	Replying to "Les dejo otro proyec..."
+
+Gracias igual
+02:56:21	[Tutor] Jose Alvarez:	Reacted to "Gracias igual" with ❤️
+02:57:16	Eugenio Gonzales Parraga:	con f12 ven como esta hecha la pagina de los tutores, capas ya saben por las dudas les comparto
+02:57:22	[TUTOR] Franco Settembrini:	Reacted to "con f12 ven como est..." with ☝️
+02:57:23	[Tutor] Jose Alvarez:	Reacted to "con f12 ven como est..." with ☝️
+02:57:27	[TUTOR] Franco Settembrini:	la famosa consola del desarrollador
+02:57:30	Cristian Márquez:	Reacted to "con f12 ven como est..." with ☝️
+02:57:31	[TUTOR] Franco Settembrini:	igual vamos paso por paso
+02:57:37	[TUTOR] Franco Settembrini:	pero si les va a ser super útil cuando arranquen con css
+02:57:48	Mariana Di Palma:	José esa es una aplicación que creaste vos?
+02:57:54	Mariana Di Palma:	la q pasaste?
+02:58:00	[Tutor] Jose Alvarez:	Si, hace bastante la hice ya
+02:58:13	Mariana Di Palma:	está disponible para usar?
+02:58:21	[Tutor] Jose Alvarez:	Obvio, sin problema
+02:58:35	Mariana Di Palma:	jajajame encantó
+02:58:37	Kori Ditmeyer:	En la doc pone Table HeadersSometimes you want your cells to be table header cells. In those cases use the <th> tag instead of the <td> tag
+02:58:59	Kori Ditmeyer:	th
+02:59:08	Mariana Di Palma:	Reacted to "Obvio, sin problema" with 💟
+02:59:17	Lucas Labruna:	el usuario puede modificar esa tabla y que se cambie automaticamente los demas valores, como en excel?
+02:59:27	[Tutor] Jose Alvarez:	No Lucas
+02:59:31	[Tutor] Jose Alvarez:	Las tablas no tienen entradas de texto
+02:59:41	[Tutor] Jose Alvarez:	Pero con JavaScript van a poder hacerlo
+02:59:45	Lucas Labruna:	Replying to "Las tablas no tienen..."
+
+buenisimo gracias
+02:59:54	[TUTOR] Franco Settembrini:	Con Js lucas
+03:00:01	Eugenio Gonzales Parraga:	las tablas se usaban en las web 1.0
+03:00:14	Eugenio Gonzales Parraga:	jajaa
+03:00:14	[TUTOR] Franco Settembrini:	Si Eugenio tal cual
+03:00:16	[Tutor] Jose Alvarez:	Jajajja
+03:00:33	Exequiel Ramirez:	aguante las tablas
+03:00:34	Eugenio Gonzales Parraga:	Joya
+03:00:34	Mariana Di Palma:	Reacted to "Pero con JavaScript ..." with 💟
+03:00:38	Facundo Ramirez:	clarisimo!!!
+03:00:42	Luigi Canova Monteiro:	joya
+03:00:46	Exequiel Ramirez:	muy bueno
+03:00:51	Maria Laura Boria:	perfecto
+03:00:53	Lucas Labruna:	nunca usar tablas jaja
+03:00:56	Cristian Márquez:	Mucha info, se entendió bien
+03:01:01	Luigi Canova Monteiro:	medio traumado por la tabla jaja
+03:01:13	Brian Espindola:	me impresiona todo el trabajo que hay atrás de una pagina web
+03:01:26	Mariana Di Palma:	Reacted to "medio traumado por l..." with 😅
+03:01:32	Mariana Di Palma:	Reacted to "medio traumado por l..." with 😂
+03:01:33	Lucila Escobar:	las actividades que realicemos dentro de clase, se entregan en la clase? o nos dan oportunidad deque  toda esta información las procesemos y durante la semana practiquemos?
+03:01:34	Maria Laura Boria:	Reacted to "medio traumado por l..." with 😂
+03:01:35	[Tutor] Jose Alvarez:	Hay demasiado trabajo en las webs
+03:01:41	Mariana Di Palma:	Reacted to "me impresiona todo e..." with 💟
+03:01:44	[Tutor] Jose Alvarez:	Replying to "las actividades que ..."
+
+Es para practicar
+03:01:49	[Tutor] Jose Alvarez:	Replying to "las actividades que ..."
+
+Las preentregas son obligatorias nomas
+03:01:57	[TUTOR] Franco Settembrini:	Tal cual, no se van a acordar todo de memoria ni ahi
+03:02:07	[TUTOR] Franco Settembrini:	es mucho, por eso siempre se dice que Google es el mejor amigo del dev
+03:02:23	Mariana Di Palma:	y la IA
+03:02:24	Mariana Di Palma:	jaja
+03:02:42	Eugenio Gonzales Parraga:	lo más importante saber para que se usan o como se usan las etiquetas para el día de mañana uno no se mate que etiqueta iba en la lugar o cual es mas eficiente.
+03:05:48	Jorge Fereira:	Hola me pueden compartir el link del grupo de WS?
+03:15:55	Lucas Labruna:	Replying to "Hola me pueden compa..."
+
+https://chat.whatsapp.com/CLBpsc4sksmIS7vo6GY17k
+03:32:17	[Tutor] Jose Alvarez:	Estamoss
+03:32:34	[TUTOR] Franco Settembrini:	Reacted to "Estamoss" with ☝️
+03:32:41	Patrick González:	todo bien
+03:32:42	Cristian Márquez:	Hola, todo bien
+03:32:48	Maria Laura Boria:	todo bien
+03:32:52	Exequiel Ramirez:	clarinete
+03:33:02	[TUTOR] Franco Settembrini:	Terminamos html
+03:33:04	[TUTOR] Franco Settembrini:	Empezamos CSS
+03:33:20	Cristian Márquez:	Oooaaa
+03:37:28	Mariana Di Palma:	como se comenta en css?
+03:37:34	[Tutor] Jose Alvarez:	/**/
+03:37:35	[Tutor] Jose Alvarez:	De esa manera
+03:37:40	[Tutor] Jose Alvarez:	/* comentario */
+03:37:57	Mariana Di Palma:	Reacted to "De esa manera" with 👌🏾
+03:38:13	Mariana Di Palma:	hay un solo css para todos los HTML?
+03:38:20	[TUTOR] Franco Settembrini:	o pueden usar el shortcut ctrl + } uso yo
+03:38:23	[Tutor] Jose Alvarez:	Si, o pueden usar varios por cada html
+03:38:27	Mariana Di Palma:	Reacted to "o pueden usar el sho..." with 👍🏾
+03:38:38	Mariana Di Palma:	Reacted to "Si, o pueden usar va..." with 👍🏾
+03:38:40	[TUTOR] Franco Settembrini:	Se suele usar uno para todos los HTML Mariana, si
+03:38:45	Mariana Di Palma:	Reacted to "Se suele usar uno pa..." with 👍🏾
+03:39:53	Cristian Márquez:	Replying to "Se suele usar uno pa..."
+
+y que es recomendable?
+03:40:12	[Tutor] Jose Alvarez:	De momento usen uno global
+03:40:21	Cristian Márquez:	Reacted to "De momento usen uno ..." with 👍
+03:40:52	Mariana Di Palma:	Reacted to "De momento usen uno ..." with 👌🏾
+03:42:43	Cristian Márquez:	uh
+03:42:54	Patrick González:	xd
+03:47:57	Exequiel Ramirez:	en ese caso poner section afectaría a todos los sections
+03:48:11	Juan Medina:	Replying to "en ese caso poner se..."
+
+si
+03:48:35	Eugenio Gonzales Parraga:	podemos poner auto
+03:49:36	Mariana Di Palma:	el padding va en px o %?
+03:49:46	Mariana Di Palma:	el margen?
+03:49:51	Mariana Di Palma:	porque me da la opcion
+03:49:59	[Tutor] Jose Alvarez:	Las medidas pueden ser tanto px, rem, em o %
+03:50:03	[Tutor] Jose Alvarez:	Yo recomiendo usar rem
+03:50:03	Luciana Melody Cielo Ortega:	puedo tener un css por html?
+03:50:10	Mariana Di Palma:	Reacted to "Las medidas pueden s..." with 👍🏾
+03:50:12	Mariana Di Palma:	Reacted to "Yo recomiendo usar r..." with 👌🏾
+03:50:14	[Tutor] Jose Alvarez:	Si Luciana
+03:50:19	Luciana Melody Cielo Ortega:	ok
+03:50:20	[Tutor] Jose Alvarez:	Pero de momento hagan uno global
+03:50:44	Juan Medina:	Rem es mejor para Responsive ?
+03:50:48	[Tutor] Jose Alvarez:	Sisi
+03:50:53	[Tutor] Jose Alvarez:	Se adapta mucho mejor
+03:50:53	Juan Medina:	ok
+03:51:20	Mariana Di Palma:	entonces si pongo el margen en rem el padding tmb, es decir, voy usando la misma medida en esas clases de medidas?
+03:51:40	Mariana Di Palma:	tienen que ser iguales?
+03:51:42	[Tutor] Jose Alvarez:	Podes usar rem como px en diferentes ocasiones
+03:51:46	[Tutor] Jose Alvarez:	pero yo recomiendo usar siempre rem
+03:51:50	Mariana Di Palma:	Reacted to "Podes usar rem como ..." with 👍🏾
+03:51:53	Juan Medina:	Reacted to "pero yo recomiendo u..." with 👍
+03:52:32	Lucas Labruna:	que vendria a ser rem? a parte de una medida
+03:53:03	[TUTOR] Franco Settembrini:	una medida relativa, que toma por defecto el tamaño de fuente de navegador
+03:53:04	[Tutor] Jose Alvarez:	Seria una medida que se adapta mucho mejor a las pantallas
+03:53:15	[Tutor] Jose Alvarez:	Porque por ejemplo, no es lo mismo 1px en mi pantalla que en la pantall del profe
+03:53:19	[Tutor] Jose Alvarez:	En cambio rem se adapta mejor
+03:54:20	Lucas Labruna:	perfectooo!
+03:55:09	Cristian Márquez:	y vw?
+03:55:17	Cristian Márquez:	Oka
+03:55:35	Maria Laura Boria:	sintácticas jajajaja
+03:55:43	Juan Medina:	Replying to "y vw?"
+
+ocupa todo el ancho
+03:55:52	Juan Medina:	Replying to "y vw?"
+
+vh todo el largo
+03:56:47	Juan Medina:	Replying to "y vw?"
+
+es decir 100 vh o 100 vw
+03:57:55	Cristian Márquez:	Replying to "y vw?"
+
+Aaaah, ok ok. Gracias
+04:10:04	Exequiel Ramirez:	esta forma no seria la mas practica profe?
+04:10:35	[Tutor] Jose Alvarez:	Con el id decis Exequiel?
+04:11:07	Exequiel Ramirez:	claro, como mostro el ultimo ejemplo para darle bordes redondeados a las imagenes
+04:11:16	[Tutor] Jose Alvarez:	Se recomienda mas usar class que id
+04:11:55	Exequiel Ramirez:	Claro, pero para afectar a todas las img dentro de una section, es mejor hacer con padres e hijos verdad?
+04:12:15	Luigi Canova Monteiro:	el id
+04:12:17	Kori Ditmeyer:	2 veces id
+04:12:18	Juan Canepa:	mismo ID
+04:12:18	Mariana Di Palma:	usa el id
+04:12:22	Federico Pallero:	Se repite id
+04:12:52	Eugenio Gonzales Parraga:	el día de mañana quieras cambiar una imagen es mejor que este por class ya que solo cambias esa imagen en especifico pero con el id es mas general. Exequiel
+04:13:43	Exequiel Ramirez:	ahh, genial
+04:14:18	Juan Canepa:	Deberíamos identificar en CSS el HTML cuyas etiquetas vamos a modificar?
+04:14:32	[TUTOR] Franco Settembrini:	claro Juan
+04:14:39	Juan Canepa:	como lo hacemos?
+04:14:55	[TUTOR] Franco Settembrini:	Con los ojos 😅
+04:15:01	[TUTOR] Franco Settembrini:	Chiste chiste
+04:15:07	[TUTOR] Franco Settembrini:	Prestando atención, no hay otra
+04:15:12	Juan Canepa:	ahh ok
+04:15:14	Juan Canepa:	gracias
+04:15:19	[TUTOR] Franco Settembrini:	Reacted to "gracias" with 👌
+04:17:24	Exequiel Ramirez:	verde
+04:17:26	Lucas Martínez Revelli:	verde
+04:17:27	Patrick González:	Green
+04:17:27	Leonardo Martin Patrono:	verde
+04:17:28	Mateo Jimenez:	verde
+04:17:28	Santiago Daniel Ribot:	verde porque es la ultiuma que lee
+04:17:29	Lucas Labruna:	verde
+04:17:29	Cristian Márquez:	verde
+04:17:32	Facundo Ramirez:	verde
+04:17:35	Maria Laura Boria:	rojo
+04:17:43	Sebastian Cirillano:	rojo, porque lee de arriba para abajo
+04:17:50	Eugenio Gonzales Parraga:	es el ultimo
+04:18:17	Sebastian Cirillano:	ahh bien bien
+04:18:30	Eugenio Gonzales Parraga:	siempre es el ultimo al menos que lo especifiques
+04:18:44	Maria Laura Boria:	ahhh oki
+04:19:29	Eugenio Gonzales Parraga:	también hay formas para que cambie de color mediante un tiempo determinado, ahora mismo no me acuerdo
+04:19:32	Patrick González:	usas las propiedad de manera adecuada para simplificar
+04:19:41	Jorge Cutruzzola:	Es mas sintetico
+04:19:52	Baruch Mendivil Laurrabaquio:	Es mas practico utilizar las etiquetas o la sección completa. en vez de estar asignando una clase a cada elemento. es mas tardado y tedioso
+04:19:59	Maria Laura Boria:	Reacted to "usas las propiedad d..." with 👍
+04:21:00	[TUTOR] Franco Settembrini:	Reacted to " Es mas practico uti..." with ☝️
+04:21:13	[TUTOR] Franco Settembrini:	En este caso si, esta perfecto
+04:22:07	Baruch Mendivil Laurrabaquio:	Reacted to "En este caso si, est..." with 👍
+04:23:08	Exequiel Ramirez:	jajajajaj
+04:23:10	Eugenio Gonzales Parraga:	c mamo
+04:23:13	Lucas Martínez Revelli:	jejejje
+04:23:14	Cristian Cristaldo:	Jajajaja
+04:23:16	Maria Laura Boria:	jajajaja
+04:23:17	Cristian Márquez:	La típica
+04:23:20	Lucas Martínez Revelli:	es la posta igual
+04:25:05	Cristian Márquez:	la clase
+04:25:06	Lucas Martínez Revelli:	clase
+04:25:08	Facundo Ramirez:	la clase
+04:25:08	Maria Laura Boria:	la clase
+04:25:40	Facundo Ramirez:	la ID
+04:25:44	Maria Laura Boria:	id
+04:26:12	Cristian Márquez:	!important
+04:26:14	Exequiel Ramirez:	es recomendable ponerle el mismo nombre al ID y a la class?
+04:26:34	[Tutor] Jose Alvarez:	No puede pasar nada pero no se recomienda
+04:26:40	Exequiel Ramirez:	genial
+04:27:11	[TUTOR] Franco Settembrini:	En esta cursada igual van a usar mucho mas class igual
+04:27:27	Eugenio Gonzales Parraga:	alv
+04:27:28	[TUTOR] Franco Settembrini:	id lo van a reservar solo para hacer enlaces internos, como mostro le profe al principio de la clase
+04:27:30	Cristian Márquez:	tan poco?
+04:27:38	[TUTOR] Franco Settembrini:	luego lo van a ver mejor en Js
+04:27:46	[TUTOR] Franco Settembrini:	Cris, si usan important! es porque algo esta mal
+04:27:57	[TUTOR] Franco Settembrini:	no tendrían necesidad de andar pisando estilos si todo esta bien
+04:28:00	Cristian Márquez:	Replying to "Cris, si usan import..."
+
+Sip, thanks
+04:28:04	Maria Laura Boria:	Reacted to "no tendrían necesida..." with 👍
+04:28:33	Mariana Di Palma:	entonces el important se usaría en caso urgente
+04:28:38	Mariana Di Palma:	supongamos no?...
+04:28:47	Mariana Di Palma:	ahah okay
+04:28:50	[Tutor] Jose Alvarez:	Claro
+04:28:52	Maria Laura Boria:	ok
+04:28:54	[Tutor] Jose Alvarez:	En casos muy exctremos
+04:28:56	[Tutor] Jose Alvarez:	extremos*
+04:29:08	Eugenio Gonzales Parraga:	Estamos Joya
+04:29:14	Mariana Di Palma:	Reacted to "extremos*" with 👌🏾
+04:29:26	Maria Laura Boria:	voy bien, gracias
+04:29:26	Cristian Cristaldo:	Por ahora todo en orden
+04:29:26	Jorge Cutruzzola:	Yo tengo una consulta, en el orden de escritura en los atributos de la etiqueta siempre se escribe el id al final en el caso de que querramos usar un id?
+04:29:40	[TUTOR] Franco Settembrini:	El orden es indistinto
+04:29:44	Jorge Cutruzzola:	abro mic
+04:29:47	[Tutor] Jose Alvarez:	Reacted to "El orden es indistin..." with ☝️
+04:29:50	Jorge Cutruzzola:	a oka
+04:29:51	[TUTOR] Franco Settembrini:	mientras este bien escrito todo no habría problema
+04:30:03	Lucas Labruna:	todas las propiedades son heredables? si pongo un padding en body se aplica a todo? o solo al body?
+04:30:05	Jorge Cutruzzola:	joya
+04:30:14	[TUTOR] Franco Settembrini:	Solo al body lucas
+04:30:15	Luigi Canova Monteiro:	para ordenar el css se pude usar el --! como em el html?
+04:30:20	[TUTOR] Franco Settembrini:	todas las propiedades no son hereditarias
+04:30:29	[Tutor] Jose Alvarez:	Replying to "para ordenar el css ..."
+
+Podes usar prettier
+04:30:33	[TUTOR] Franco Settembrini:	y la que si son se suelen aplicar solo a los hijos directos, no a los "ñietos"
+04:30:42	Jorge Fereira:	En el CSS se puede elegir una imagen como fondo?
+04:30:45	[Tutor] Jose Alvarez:	Si
+04:30:46	Maria Laura Boria:	en la carpeta de css pondríamos todas las directivas no importa el orden?
+04:30:50	[TUTOR] Franco Settembrini:	Si Jorge
+04:30:55	Jorge Fereira:	Reacted to "Si" with 👍
+04:30:57	[TUTOR] Franco Settembrini:	No entendí Maria
+04:30:58	Mariana Di Palma:	Reacted to "En el CSS se puede e..." with 💟
+04:31:02	[TUTOR] Franco Settembrini:	en la carpeta css, pondrías el archivo .css
+04:31:07	Jorge Fereira:	Reacted to "Si Jorge" with 👍
+04:31:12	Maria Laura Boria:	no me exprese bien perdon
+04:33:18	Mariana Di Palma:	se pueden poner videos e imágenes en el background? la página pixabar es para hacer uso de su contenido libremente sin que nos caiga una demanda 😅?
+04:33:45	Mariana Di Palma:	qué más ágias existen de ese tipo multimedia como freepick tmb pero con videos?
+04:34:26	[TUTOR] Franco Settembrini:	imágenes si, videos no
+04:34:31	[TUTOR] Franco Settembrini:	Pixabay te da imágenes gratis si
+04:34:48	[TUTOR] Franco Settembrini:	Lo que es videos igual no usen videos locales, usen cosas de YouTube o súbanlos a algún servidor, los videos locales pesan demasiado
+04:35:05	Maria Laura Boria:	oki
+04:35:07	[TUTOR] Franco Settembrini:	Sobre lo ultimo que preguntas es cuestión de investigar en google
+04:36:38	Mariana Di Palma:	como puedo poner un video en el background por ejemplo unas olas debajo de un h1?
+04:37:30	[Tutor] Jose Alvarez:	Para poner un video vas a tener que usar la etiqueta video en HTML y en css definirle propiedad de positions y demás que ya vamos a ver
+04:37:43	[TUTOR] Franco Settembrini:	No existe video de fondo
+04:37:46	[TUTOR] Franco Settembrini:	Si hay background image
+04:37:54	[TUTOR] Franco Settembrini:	que vamos a ver en breve
+04:37:58	[TUTOR] Franco Settembrini:	igual ahí Jose te aclaro como se hace
+04:38:35	Mariana Di Palma:	GRACIAS José y Franco! 🙌🏾
+04:38:55	Mariana Di Palma:	Reacted to "Para poner un video ..." with 💟
+04:39:01	[Tutor] Jose Alvarez:	Reacted to "GRACIAS José y Franc..." with ❤️
+04:39:14	Mariana Di Palma:	Para poner un video vas a tener que usar la etiqueta video en HTML y en css definirle propiedad de positions y demás que ya vamos a veresto mismo ahaha entiendo
+04:49:30	Federico Pallero:	Para hacer una barra de navegación,estaría mal solo poner los "<a>" . no?
+04:49:37	[Tutor] Jose Alvarez:	Si
+04:49:41	[Tutor] Jose Alvarez:	Deberia de usarse el nav con la lista
+04:49:53	[TUTOR] Franco Settembrini:	Reacted to "Deberia de usarse el..." with ☝️
+04:49:56	Federico Pallero:	Ok,osea q siempre usar ul
+04:50:11	Federico Pallero:	Ok, Gracias
+04:53:45	Lucas Labruna:	por que uno con comillas y otro no?
+04:53:51	Jorge Fereira:	Consulta. Por que comic sans esta entre comillas?
+04:54:08	Cristian Márquez:	por q tiene espacio
+04:54:17	Cristian Márquez:	cuando tiene espacio se pone entre comillas
+04:54:25	Lucas Labruna:	Reacted to "cuando tiene espacio..." with 👍
+04:54:33	Jorge Fereira:	Reacted to "por q tiene espacio" with 👍
+04:54:47	[TUTOR] Franco Settembrini:	Reacted to "cuando tiene espacio..." with ☝️
+04:54:54	[TUTOR] Franco Settembrini:	Tal cual dice Cris
+04:55:12	[TUTOR] Franco Settembrini:	en desarrollo no se usan espacios al nombrar algo y si se usan son caracteres especiales, por ende tienen que estar contenidos por unas comillas
+04:55:14	Maria Laura Boria:	eso significa que se puede poner de las dos maneras?
+04:55:42	[TUTOR] Franco Settembrini:	Maria significa que si no encuentra una de las fuentes usa la otra para mostrarle el texto al usuario
+04:55:58	Maria Laura Boria:	genial, gracias
+04:57:45	Lucas Labruna:	n un parrafo como selecciono una sola palabra para poner en negrita?
+04:58:24	[Tutor] Jose Alvarez:	Con span
+04:58:36	Cristian Márquez:	lo seleccionas en html
+04:58:58	Cristian Márquez:	si esop span, en el texto que queres editar
+04:59:03	[TUTOR] Franco Settembrini:	Como dice Jose, envolves en span el párrafo y después lo llamas en el css
+04:59:07	Mariana Di Palma:	justify que es?
+04:59:15	Lucas Labruna:	👍
+04:59:16	Jorge Fereira:	Replying to "justify que es?"
+
+Justoficar
+04:59:30	Mariana Di Palma:	Replying to "justify que es?"
+
+como sería justificar no lo entiendo justificar a que?
+04:59:53	Jorge Fereira:	Replying to "justify que es?"
+
+Sale en cuadrado perfecto le agrega los espacios necesarios
+05:00:04	Jorge Fereira:	Replying to "justify que es?"
+
+Eso seria los parrafos
+05:00:07	Mariana Di Palma:	Replying to "justify que es?"
+
+es decir centra por defecto?
+05:00:15	Eugenio Gonzales Parraga:	yes
+05:00:30	Mariana Di Palma:	okayyy
+05:00:31	Jorge Fereira:	Replying to "justify que es?"
+
+En centrado no todas las lineas tocan el borde
+05:00:42	Mariana Di Palma:	Replying to "justify que es?"
+
+ahah
+05:00:48	Mariana Di Palma:	Replying to "justify que es?"
+
+Gracias Jorge!
+05:00:53	Jorge Fereira:	Reacted to "Gracias Jorge!" with ❤️
+05:01:01	Mariana Di Palma:	genial
+05:02:30	Mariana Di Palma:	si lo vi en Word ahahahhahaha ya entienda
+05:02:33	Mariana Di Palma:	entiendooo
+05:02:34	Mariana Di Palma:	ahora si
+05:02:46	Mariana Di Palma:	se expande todo el bloque
+05:04:26	Cristian Márquez:	como dos imágenes?
+05:04:42	[TUTOR] Franco Settembrini:	Reacted to "como dos imágenes?" with ☝️
+05:06:20	Cristian Márquez:	una imagen sobre otra
+05:06:26	Cristian Márquez:	aaaaaaa
+05:06:31	Nazareno Diaz Mauro:	como hago para que no se pixelee la imagen de fondo?
+05:07:00	[Tutor] Jose Alvarez:	Depende la calidadde imagen
+05:07:05	[Tutor] Jose Alvarez:	Proba con un background-size:cover;
+05:07:06	Maria Laura Boria:	que pixeles tiene una imagen de calidad?
+05:07:21	[TUTOR] Franco Settembrini:	La calidad no depende las dimensiones en px Maria
+05:07:36	[TUTOR] Franco Settembrini:	Para un teléfono celular no vas a usar una imagen en 4k claramente
+05:07:37	Maria Laura Boria:	gracias, de que depende?
+05:07:48	[TUTOR] Franco Settembrini:	del ancho de la pantalla y los px que tenga
+05:07:59	Maria Laura Boria:	oki
+05:08:18	[TUTOR] Franco Settembrini:	por ejemplo para un monitor full hd con una imagen de aprox 1000px de ancho para un banner no debería pixelarse
+05:08:35	[TUTOR] Franco Settembrini:	1500px*
+05:09:11	Maria Laura Boria:	se entiende
+05:09:22	[TUTOR] Franco Settembrini:	Reacted to "se entiende" with 👌
+05:10:30	Mariana Di Palma:	1 rem es 12 px?
+05:10:44	[TUTOR] Franco Settembrini:	16 Mariana
+05:10:48	Mariana Di Palma:	no  1 rem es 10px?
+05:10:54	Mariana Di Palma:	si 2 son 20
+05:11:00	[TUTOR] Franco Settembrini:	16
+05:11:24	Mariana Di Palma:	okayy
+05:11:38	Mariana Di Palma:	pero como es la regla de 3 no me da 16
+05:12:49	Mariana Di Palma:	no entiendo jaja 🙁 después buscaré es
+05:12:58	Cristian Márquez:	usar el asterisco es lo mismo q usar body?
+05:13:12	[Tutor] Jose Alvarez:	No
+05:13:15	[Tutor] Jose Alvarez:	El asterisco es global
+05:13:17	[Tutor] Jose Alvarez:	A todas las etiquetas
+05:13:23	[Tutor] Jose Alvarez:	El body únicamente aplica al body
+05:13:39	[TUTOR] Franco Settembrini:	Reacted to "El body únicamente a..." with ☝️
+05:13:46	[TUTOR] Franco Settembrini:	Te doy un ejempo de lo que dice Jose
+05:13:53	[TUTOR] Franco Settembrini:	si aplicas un bg al body solo se ve la imagen en el fondo de la pagina
+05:14:02	Mariana Di Palma:	ahahah gracias Franco! gracias profesor!
+05:14:02	[TUTOR] Franco Settembrini:	si usas un bg image en * todo tiene el mismo fondo, textos, títulos, etc
+05:14:08	Cristian Márquez:	pero body es padre de todas las etiquetas
+05:14:11	Cristian Márquez:	no seria lo mismo?
+05:14:18	Cristian Márquez:	o parecido entonces
+05:14:24	[TUTOR] Franco Settembrini:	Cris * es todo, body es body
+05:14:33	[Tutor] Jose Alvarez:	Pueden hacer el reset o usar normalize (investíguenlo)
+05:14:34	Cristian Márquez:	ta weno
+05:14:37	Juan Medina:	igual * se usa solo para el reset
+05:14:42	[TUTOR] Franco Settembrini:	Reacted to "igual * se usa solo ..." with ☝️
+05:14:43	Juan Medina:	no te enrosques
+05:14:45	[TUTOR] Franco Settembrini:	Tal cual Juan
+05:15:03	Jorge Cutruzzola:	En que caso usamos rem y/o font-size en pixeles?
+05:15:08	Cristian Márquez:	Reacted to "no te enrosques" with 👍
+05:15:28	Kori Ditmeyer:	No es buena practica entonces usar el reset
+05:15:31	Kori Ditmeyer:	?
+05:15:35	[TUTOR] Franco Settembrini:	Si es buena practica Kori
+05:15:38	[TUTOR] Franco Settembrini:	Aplicala
+05:15:39	[Tutor] Jose Alvarez:	Usen rem que es mejor chicos
+05:15:42	[Tutor] Jose Alvarez:	Px ya no se recomienda
+05:15:44	[TUTOR] Franco Settembrini:	Reacted to "Usen rem que es mejo..." with ☝️
+05:15:47	Jorge Cutruzzola:	ahh okey
+05:15:48	Jorge Cutruzzola:	joya
+05:15:49	[TUTOR] Franco Settembrini:	rem es mas recomendable para el responsive
+05:15:53	Mariana Di Palma:	Reacted to "Aplicala" with 👌🏾
+05:15:54	[TUTOR] Franco Settembrini:	si pueden trabajar con rem mejor
+05:15:57	Mariana Di Palma:	Reacted to "Usen rem que es mejo..." with 👌🏾
+05:16:14	Mariana Di Palma:	Reacted to "rem es mas recomenda..." with 👍🏾
+05:16:28	Kori Ditmeyer:	Reacted to "Aplicala" with 👌🏾
+05:17:03	Sebastian Cirillano:	en la pre entrega por ejemplo en la seccion “sobre nosotros” inventamos una historia ya o dejamos un lorem?
+05:17:05	Baruch Mendivil Laurrabaquio:	Lo que se entrega la próxima clase, se entrega antes o después de la misma.?
+05:17:13	Juan Medina:	La pre entrega en el HTML de los 10 wiframes nada de css verdad?
+05:17:14	[Tutor] Jose Alvarez:	Replying to "en la pre entrega po..."
+
+Pueden dejar un lorem si quierne
+05:17:23	Sebastian Cirillano:	Replying to "en la pre entrega po..."
+
+perfecto, gracias!
+05:17:24	[TUTOR] Franco Settembrini:	Después de la misma Baruch
+05:17:29	Baruch Mendivil Laurrabaquio:	OK
+05:17:49	Baruch Mendivil Laurrabaquio:	Gracias Profe
+05:17:51	[TUTOR] Franco Settembrini:	Ya vamos a ver las consignas Juan
+05:17:59	Eugenio Gonzales Parraga:	yo hice 8  wiframes esta bien ?
+05:18:00	[TUTOR] Franco Settembrini:	Traten de irla viendo y entenderla igual
+05:18:08	Baruch Mendivil Laurrabaquio:	el mismo sábado para que no nos agarre las prisas jaja
+05:18:08	jonatan espinosa gyoker:	que incluye la primer pre entrega?
+05:18:10	[TUTOR] Franco Settembrini:	si no respetan la consigna seguro desaprueban
+05:18:24	[TUTOR] Franco Settembrini:	pero bueno, pueden reentregar
+05:18:31	[TUTOR] Franco Settembrini:	asi que atentos a las consignas porfa, vayan entendiendolas
+05:18:42	Juan Canepa:	10 wireframes y 1 HTML para cada uno no?
+05:19:02	Juan Canepa:	ok, gracias
+05:19:03	Mariana Di Palma:	Reacted to "asi que atentos a la..." with 👍🏾
+05:19:16	Eugenio Gonzales Parraga:	Joya, pregunto no más por las dudas
+05:20:17	Exequiel Ramirez:	es decir que tengo que tener 5 HTML?
+05:20:31	Mateo Jimenez:	Hay otra herramienta que me recomendaron para hacer wireframes y es Whismical, gratuita. Por si a alguien le interesa
+05:20:31	Exequiel Ramirez:	para hacer los 10 wireframes?
+05:20:54	[TUTOR] Franco Settembrini:	El proyecto final consta de un sitio web de 5 HTML interconectados
+05:20:55	Juan Medina:	ok bine
+05:21:03	[TUTOR] Franco Settembrini:	5 paginas web pide el proyecto final
+05:21:04	Exequiel Ramirez:	perfecto profe
+05:21:05	Exequiel Ramirez:	genial
+05:21:12	[TUTOR] Franco Settembrini:	también se va a pedir css
+05:21:14	Eugenio Gonzales Parraga:	ahora si me quedo claro
+05:21:37	Nazareno Diaz Mauro:	profe como hago que en la lista de navegación me quede uno al lado del otro en vez de en columna
+05:21:49	Sebastian Cirillano:	en la primer entrega entonces no es necesario aplicar nada de css no? con el html pelado esta bien?
+05:21:54	[TUTOR] Franco Settembrini:	Lo vamos a ir viendo en el transcurso de las clases Nazareno
+05:22:03	[TUTOR] Franco Settembrini:	CSS es un tema extenso en esta cursada
+05:22:13	[TUTOR] Franco Settembrini:	Se pide css Sebas
+05:22:19	Nazareno Diaz Mauro:	ok perfecto, gracias
+05:23:02	Exequiel Ramirez:	a practicar nomas
+05:23:04	Sebastian Cirillano:	ah bien, osea aplicamos hasta el css que lleguemos a ver en la clase siguiente no?
+05:23:06	Exequiel Ramirez:	clarísimo profe
+05:23:09	Sebastian Cirillano:	perfecto
+05:23:10	[TUTOR] Franco Settembrini:	Exacto Sebas
+05:23:14	[TUTOR] Franco Settembrini:	Igual las consignas no se preocupen tanto
+05:23:18	Federico Pallero:	Muy buena clase. Muy bien explicado todo
+05:23:18	[TUTOR] Franco Settembrini:	Las vemos la próxima clase en profundidad
+05:23:24	[TUTOR] Franco Settembrini:	y una semana es mas que suficiente para que hagan lo pedido
+05:23:25	Sebastian Cirillano:	joya! gracias!
+05:23:26	Maria Laura Boria:	Super claras tus clases Gonza… después viene la practica
+05:23:27	jonatan espinosa gyoker:	me explicas asi rápido desde cero distribuir las carpetas en visual estudio
+05:23:31	Cristian Márquez:	no entendí bien lo del rem, pero lo vamos a ver mejor en la otra clase no?
+05:23:56	[TUTOR] Franco Settembrini:	Cris rem toma la medida de fuente del navegador por defecto que suele ser 16 px
+05:24:00	[TUTOR] Franco Settembrini:	asi que 1 rem = 16px
+05:24:16	[TUTOR] Franco Settembrini:	obviamente varia según el navegador por eso se dice que es una medida relativa
+05:24:22	Baruch Mendivil Laurrabaquio:	Los enlaces no están ajustados a cada pagina en la que los copio
+05:24:58	[TUTOR] Franco Settembrini:	Replying to "me explicas asi rápi..."
+
+https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files
+05:25:35	Cristian Márquez:	Replying to "obviamente varia seg..."
+
+Okey, mas o menos te entendí. Ahora lo veo mejor entonces. Muchas gracias!
+05:25:45	Lucas Labruna:	Replying to "obviamente varia seg..."
+
+si en body especifico el font-size en 20px 1 rem pasa a 20px o no?
+05:26:05	[TUTOR] Franco Settembrini:	Replying to "obviamente varia seg..."
+
+Exacto Lucas
+05:26:09	[TUTOR] Franco Settembrini:	Replying to "obviamente varia seg..."
+
+Pero va a ser una medida fija
+05:26:18	Pablo Di Monte:	podes repetirlo una vez mas
+05:26:19	[TUTOR] Franco Settembrini:	Replying to "obviamente varia seg..."
+
+o absoluta en ese caso, porque declaras que sean 20px inamovibles
+05:26:41	[TUTOR] Franco Settembrini:	Replying to "obviamente varia seg..."
+
+en cambio lo que mostro el profe de usar porcentaje sigue siendo relativo
+05:27:26	Lucas Labruna:	Replying to "obviamente varia seg..."
+
+haaaa, digo como para calcular mejor el rem, tipo multiplicar por 10px y no 16px
+05:27:35	Pablo Di Monte:	ahhh lissstooo ahí lo ví
+05:28:13	Juan Medina:	genial perfecto
+05:29:33	[TUTOR] Franco Settembrini:	Replying to "obviamente varia seg..."
+
+https://nekocalc.com/px-to-rem-converter
+05:30:06	[TUTOR] Franco Settembrini:	Replying to "obviamente varia seg..."
+
+o si queres que sean 10px para calcular mas fácil hace como hizo el profe
+05:30:08	[TUTOR] Franco Settembrini:	Replying to "obviamente varia seg..."
+
+html { font-size: 62.5%; }
+05:30:27	Lucas Labruna:	Replying to "obviamente varia seg..."
+
+perfectoo muchas graciaaaas
+05:30:31	josue perez:	perfecto!
+05:30:50	[TUTOR] Franco Settembrini:	pero con px quedaría absoluto si no me equivoco
+05:31:27	[TUTOR] Franco Settembrini:	Muchas gracias a todos :)
+05:31:31	[TUTOR] Franco Settembrini:	👋
+05:31:34	Lucas Martínez Revelli:	graciass
+05:31:37	Brian Espindola:	muchas gracias por la clase :D
+05:31:38	Kori Ditmeyer:	Gracias
+05:31:40	Sebastian Cirillano:	gracias! buen finde!
+05:31:40	Gabriel Narvaez:	gracias
+05:31:40	Juan Medina:	Chau gracias
+05:31:40	Emiliano Volpino:	graciass
+05:31:41	Juan I. Bernígola:	muchas gracias igualmente!
+05:31:42	Martín Ortiz:	Gracias! Igualmente
+05:31:45	Tammy Pardo:	muchas gracias
+05:31:45	Maria Laura Boria:	muchas gracias al profe y tutores!!!!!
+05:31:47	Federico Romero:	Gracias igualmente
+05:31:49	Jorge Cutruzzola:	Gracias saludos!
+05:31:50	Lucas Labruna:	chau graciaaas!!
+05:31:51	Dahyana Soria:	muchas gracias, excelente clase
+05:31:55	Gabriel Narvaez:	Buen finde!
+05:31:58	Facundo Ramirez:	Gracias! Buen fin de semana!!
+05:32:11	Kori Ditmeyer:	ok
+05:32:20	Federico Romero:	Todo claro ahora a practicar
+05:32:21	[TUTOR] Franco Settembrini:	👋
+05:32:22	Dahyana Soria:	no, buen fin de semana
+05:32:24	Luigi Canova Monteiro:	a practicar
+05:32:30	Luigi Canova Monteiro:	buen finde a todos
+05:32:31	Mariana Di Palma:	Gracias!!! uen finde!!
+05:32:36	Exequiel Ramirez:	buen finde gente
+05:32:37	Noelia Mare:	Muchas gracias, saludos!
+05:32:41	Jorge Cutruzzola:	Buen finde! Gracias

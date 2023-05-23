@@ -1,0 +1,65 @@
+body {
+
+   background: rgb(191, 190, 190)
+}
+
+#barranavegacion {
+    background-color: black;
+}
+
+.contenedor_formulario {
+    display: flex;
+    justify-content: center;}
+
+.galeriadehamburguesas {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-around;
+    gap: 5px;
+}
+
+.galeriadehamburguesas img {
+    height: 250px;
+    width: unset;
+}
+
+.edicionespecial {
+    align-items: center;
+}
+
+#link_redes {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+#carouselExample img{
+    height: 80vh;
+    object-fit: cover;
+    filter: grayscale(70%);
+}
+
+footer{
+    height: 15vh;
+    margin-bottom: 0%;
+    padding-top: 0px
+}
+
+#carouselExample {
+    position: relative
+}
+
+
+#carouselExample .overlaid {
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
