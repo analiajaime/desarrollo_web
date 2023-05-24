@@ -94,3 +94,20 @@ button {
     margin-top: 3vh;
 
 }
+
+#carouselExampleIndicators {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    gap:3rem;
+    justify-content: center;
+    border-radius: 38px;
+background: #e0e0e0;
+box-shadow:  11px 11px 10px #a6a6a6,
+             -11px -11px 10px #ffffff;
+    padding: 3px;
+    margin-top: 2rem;
+    height: 100vh;
+    width: 100vh;
+}
+
