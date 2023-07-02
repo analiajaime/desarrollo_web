@@ -7,7 +7,10 @@
     box-sizing: border-box;
 }
 
-
+@mixin displayflex {
+    display: flex;
+    flex-direction: column;
+}
 
 body {
 
@@ -58,8 +61,7 @@ box-shadow:  11px 11px 10px #a6a6a6,
 
 
 .edicionespecial {
-    display: flex;
-    flex-direction: column;
+    @include displayflex
     margin: 0 auto;
     gap:3rem;
     justify-content: center;
@@ -98,8 +100,7 @@ button {
 }
 
 #carouselExampleIndicators {
-    display: flex;
-    flex-direction: column;
+    @include displayflex
     margin: 0 auto;
     width: 50vw;
     gap:3rem;
